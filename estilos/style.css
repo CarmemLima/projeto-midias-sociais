@@ -28,9 +28,9 @@ main{
 section#telefone{
     position: absolute;
     top: 50%;
-    left: 43%;
+    left: 50%;
     /*essas configurações são as que permitem que que o container fique centralizado.*/
-    transform: translate(-50%, -50%);
+    transform: translate(-63%, -50%);
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat top center;
